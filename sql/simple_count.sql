@@ -1,0 +1,1 @@
+select count(1) as x from `{{ book_sales_table }}`
