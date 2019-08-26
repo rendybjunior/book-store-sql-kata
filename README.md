@@ -44,7 +44,6 @@ Bonus:
 * Spot and fix inefficient query
 * Make testing more readable and cover more cases
 
-
 ## Disclaimer
 
 The data, including name and email, are randomly generated and created by the help of [Mockaroo](https://mockaroo.com/). They should not reflect real name and emails, and if it does it should be an unintended coincident.
