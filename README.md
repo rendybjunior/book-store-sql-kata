@@ -28,6 +28,9 @@ The exercise steps:
 * Run `pytest` to ensure your code is running correctly
 * Create a Pull Review and request for review
 
+Note:
+* It is fine to change the test variables, if it is required to rename variable to be better in the SQL
+
 Bonus:
 * Spot and fix inefficient query
 * Make testing more readable and cover more cases
