@@ -31,7 +31,7 @@ The exercise steps:
 
 * Ensure the data preparation step and environment prep has been done, including the auth access
 * Create your own branch using pattern `kata/<github username>`
-* Refactor the SQLs in `sql` folder to reflect clean code principle, use this style guideline //TODO style guideline
+* Refactor the SQLs in `sql` folder to reflect clean code principle, ask your team on SQL style guideline being used
 * Run `pytest` to ensure your code is running correctly
 * Create a Pull Review and request for review
 
